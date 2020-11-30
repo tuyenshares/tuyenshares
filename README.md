@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center"> 
+  
+  ### Hi there 👋
 
 <!--
 **tuyenshares/tuyenshares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+😄 I'm Tuyen (it's pronounced 'twin'), a lawyer turned student of data. 
+
+🌱 I'm currently learning SQL.
+
+🔬 I'm also interested in data analysis in mental health and mindfulness. 
+
+📬 If you want to discuss any of these topics, we can connect [here](https://twitter.com/tuyenshares) and [here](https://www.linkedin.com/in/nguyentranthanhtuyen/). 
+
+</div>
