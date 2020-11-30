@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
-😄 I'm Tuyen (it's pronounced 'twin'), a lawyer turned student of data. 
+😀  I'm Tuyen (it's pronounced 'twin'), a lawyer turned student of data science. 
 
-🌱 I'm currently learning SQL.
+🌱  I'm currently learning SQL & Python.
 
-🔬 I'm also interested in data analysis in mental health and mindfulness. 
+🔬  I'm also interested in data analysis in mental health and mindfulness. 
 
-📬 If you want to discuss any of these topics, we can connect [here](https://twitter.com/tuyenshares) and [here](https://www.linkedin.com/in/nguyentranthanhtuyen/). 
+📬  If you want to discuss any of these topics, we can connect [here](https://twitter.com/tuyenshares) and/or [here](https://www.linkedin.com/in/nguyentranthanhtuyen/). 
 
 </div>
+
+---
