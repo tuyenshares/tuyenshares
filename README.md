@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱  Currently learning data analytics using SQL & Python, you can find my project-based learning [here](https://tuyenshares.github.io/).
 
-🔬  I'm also interested in data analysis for mental health care and mindfulness. 
+🔬  I'm also interested in data analysis for tackling mental health issues. 
 
 📬  If you want to discuss any of these topics, we can connect [here](https://twitter.com/tuyenshares) or [here](https://www.linkedin.com/in/nguyentranthanhtuyen/). 
 
