@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-😀  I'm Tuyen (it's pronounced 'twin'), a lawyer turned student of data science. 
+😀  I'm Thanh Tuyen (it's pronounced 'twin'), a lawyer turned student of data and neuroscience. 
 
 🌱  Currently learning data analytics using SQL & Python, you can find my project-based learning [here](https://tuyenshares.github.io/).
 
